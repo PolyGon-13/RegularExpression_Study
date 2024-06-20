@@ -14,5 +14,3 @@ polygon. 이라고 검색하면 polygon1, polygon2, polygon., polygon* 등 모�
 따라서 이스케이프 문자로 역슬래시(\)를 사용</br>
 
 - \. 이라고 검색하면 마침표(.) 그 자체와 일치한다.
-</br>
-
