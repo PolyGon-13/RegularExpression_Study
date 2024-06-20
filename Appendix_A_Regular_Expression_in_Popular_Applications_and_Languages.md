@@ -63,3 +63,25 @@ JavaScript에서 지원하는 정규표현식은 펄을 기준으로 삼았지�
 - \A와 \Z는 지원하지 않음
 
 </br>
+
+### 4. 마이크로소프트 닷넷
+닷넷에서는 Regex라는 클래스로, 기능을 추가로 제공하는 다른 클래스와 함께 정규표현식을 지원한다.</br>
+- IsMatch() : 주어진 문자열에서 일치하는 부분이 있는지 확인
+- Match() : 일치하는 부분을 하나 찾아 Match 객체로 반환
+- Matches() : 일치하는 부분을 모두 찾아 MatchCollection 객체로 반환
+- Replace() : 주어진 문자열에서 치환을 수행
+- Split() : 문자열을 여러 문자열 배열로 나눔
+
+</br>
+
+래퍼(wrapper) 함수를 이용하면 Regex 클래스를 생성하지 않고도 정규표현식을 실행할 수 있다.</br>
+- Regex.IsMatch() : IsMatch() 메서드와 기능 동일
+- Regex.Match() : Match() 메서드와 기능 동일
+- Regex.Matches() : Matches() 메서드와 기능 동일
+- Regex.Replace() : Replace() 메서드와 기능 동일
+- Regex.Split() : Split() 메서드와 기능 동일
+
+</br>
+닷넷 환경에서 정규표현식을 사용할 때 아래의 사항들에 유의해야 한다.</br>
+- 정규표현식을 사용하려면, Imports System.Text.RegularExpressions를 통해 정규표현식 객체를 import해야 함
+- 
