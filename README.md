@@ -4,12 +4,9 @@
 
 <table>
   <tr>
-    <td colspan="6">기본 메타 문자</td>
+    <td colspan="2">기본 메타 문자</td>
   </tr>
     <td>.</td>
-  </tr>
-  <tr>
-    <td>내용</td>
   </tr>
   <tr>
     <td>내용</td>
