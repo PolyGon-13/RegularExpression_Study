@@ -3,7 +3,6 @@
 <table>
   <tr>
     <td rowspan="6">기본 메타 문자</td>
-    <td>내용</td>
   </tr>
   <tr>
     <td>내용</td>
