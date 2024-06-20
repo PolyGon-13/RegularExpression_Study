@@ -1,11 +1,15 @@
 ## 정규 표현식
-도서 : 손에 잡히는 10분 정규 표현식</br>
+도서 : 손에 잡히는 10분 정규 표현식
+</br></br>
+
 <table>
   <tr>
     <td rowspan="6">기본 메타 문자</td>
   </tr>
+  </tr>
+    <td colspan="2">dd</td>
   <tr>
-    <td>내용</td>
+    <td>.</td>
   </tr>
   <tr>
     <td>내용</td>
