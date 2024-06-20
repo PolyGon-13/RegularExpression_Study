@@ -4,11 +4,8 @@
 
 <table>
   <tr>
-    <td rowspan="6">기본 메타 문자</td>
+    <td colspan="6">기본 메타 문자</td>
   </tr>
-  </tr>
-    <td colspan="2">dd</td>
-  <tr>
     <td>.</td>
   </tr>
   <tr>
