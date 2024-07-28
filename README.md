@@ -1,5 +1,5 @@
 ## 정규 표현식
-도서 : 손에 잡히는 10분 정규 표현식
+손에 잡히는 10분 정규 표현식 ([book](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=196607460))
 </br></br>
 
 ### 기본 메타 문자
