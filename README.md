@@ -1,6 +1,4 @@
 ## 정규 표현식
-**손에 잡히는 10분 정규 표현식** ([book](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=196607460))
-</br>
 [테스트 사이트](https://regexr.com/5mhou)
 </br></br>
 
